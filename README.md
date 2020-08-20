@@ -14,4 +14,4 @@ I like to bake
 
 - Indiate your goal(s) you have for this course
 
-I want to grow my knowledge and understanding for computer science in general.
+I want to grow my knowledge and understanding of computer science in general.
